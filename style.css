@@ -3,9 +3,10 @@
 }
 
 .body {
-    background: rgb(15, 156, 156);
+    background: rgb(15, 156, 50);
 }
 
 .nav {
     color: rgb(31, 51, 41);
+    background-color: aqua;
 }
