@@ -1,12 +1,23 @@
 * {
-    margin: 0px;
+  margin: 0px;
 }
 
 .body {
-    background: rgb(15, 156, 50);
+  background: #0f9c32;
 }
 
 .nav {
-    color: rgb(31, 51, 41);
-    background-color: aqua;
+  color: #1f3329;
+  background-color: aqua;
+}
+
+.test {
+
+  display: -ms-flexbox;
+
+  display: flex;
+}
+
+.asd {
+  border-radius: 30px;
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Projekt0",
+  "version": "1.0.0",
+  "description": "Podstawy Gita, nauka z Kodilla",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "html-validate": "^2.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inazuma-code33/Nauka-i-lekcje.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inazuma-code33/Nauka-i-lekcje/issues"
+  },
+  "homepage": "https://github.com/inazuma-code33/Nauka-i-lekcje#readme"
+}
